@@ -3,7 +3,7 @@
 _A Smart Clipboard Manager with History Integration_
 
 ## **Overview**
-SnipIt is a powerful and lightweight clipboard manager designed to streamline your workflow. It tracks and stores your clipboard history, providing an intuitive interface for easy recall, navigation, and management of text entries. With persistent storage and seamless text replacement, ClipBoard+ redefines how you work with your clipboard.
+SnipIt is a powerful clipboard manager designed to streamline your workflow. It tracks and stores your clipboard history, providing an intuitive interface for easy recall, navigation, and management of text entries. With persistent storage and seamless text replacement, SnipIt redefines how you work with your clipboard.
 
 ## **Features**
 - **Real-Time Monitoring**: Automatically tracks and stores clipboard text entries.
